@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Abhijith5008/react_portfolio.git/%20portfolio/static/css/main.f92ae822.css",
+    "main.js": "/Abhijith5008/react_portfolio.git/%20portfolio/static/js/main.1030ba7e.js",
+    "static/media/pic.png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/pic.d0f35615a6807adf72d1.png",
+    "static/media/Resume.pdf": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/Resume.5172a63a1a16e8f3cb80.pdf",
+    "static/media/pic2.jpeg": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/pic2.c2bc33dfea1891f2252b.jpeg",
+    "static/media/portfolio (6).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (6).a7f76ab536d926414e29.png",
+    "static/media/portfolio (2).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (2).a5de7bf4ed4688fcf287.png",
+    "static/media/portfolio (3).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (3).a5de7bf4ed4688fcf287.png",
+    "static/media/portfolio (4).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (4).b2c73e49002148f1c76d.png",
+    "static/media/portfolio (1).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (1).8e575250c2b6938787c9.png",
+    "static/media/grid.jfif": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/grid.4faf90236fd498954c0f.jfif",
+    "static/media/portfolio (5).png": "/Abhijith5008/react_portfolio.git/%20portfolio/static/media/portfolio (5).06d7419660caec7d7bb2.png",
+    "index.html": "/Abhijith5008/react_portfolio.git/%20portfolio/index.html",
+    "main.f92ae822.css.map": "/Abhijith5008/react_portfolio.git/%20portfolio/static/css/main.f92ae822.css.map",
+    "main.1030ba7e.js.map": "/Abhijith5008/react_portfolio.git/%20portfolio/static/js/main.1030ba7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92ae822.css",
+    "static/js/main.1030ba7e.js"
+  ]
+}
